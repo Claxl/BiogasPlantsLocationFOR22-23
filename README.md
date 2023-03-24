@@ -1,4 +1,5 @@
-#Biogas plants location
+# Biogas plants location
+
 An association of  n  farmers wants to open  p  plants to produce energy from biogas. Each plant will be opened at a farm of a member of the association and will be powered with corn chopping purchased from the farm itself or from other neighboring farms.
 
 Each farm  i  can provide at most  ci  tons of corn chopping, with a percentage of dry matter  ai . As you may know, dry matter is the key component of corn chopping used for biogas production. In order to maintain the quality of produced energy, each plant must burn a mixture of corn chopping with a percentage of dry matter between  kmin  and  kmax .
